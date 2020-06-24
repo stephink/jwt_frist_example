@@ -1,0 +1,14 @@
+GET http://localhost:3000/user
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoic3RldiIsImlhdCI6MTU5Mjk5NzEwMn0.3or9Js9eaomx6u5misCCmiHn2t-91MAhR6Gr7eKygrc
+
+
+
+
+###
+
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "username":"stev"
+}
