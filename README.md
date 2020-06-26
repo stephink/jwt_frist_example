@@ -6,4 +6,6 @@ Dependencies
   2,jsonwebtoken
   3,dotenv
  
-we add accesstoken in .env file with named 'Access_token'
+ create a .env file inthe project
+ copy the values from the .env.example
+ update access_token in .env file
